@@ -1,0 +1,19 @@
+{
+  "name": "db-users",
+  "version": "1.0.0",
+  "description": "Stub for users data storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatarzynaBigaj/db-users.git"
+  },
+  "author": "Katarzyna Bigaj <katarzynabigaj1611@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatarzynaBigaj/db-users/issues"
+  },
+  "homepage": "https://github.com/KatarzynaBigaj/db-users#readme"
+}
